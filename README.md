@@ -5,5 +5,6 @@ This project is done using "HTML" and "CSS". The important aspect of this websit
 
 
 ![Screenshot 2024-07-28 133051](https://github.com/user-attachments/assets/c30f8ec8-a512-4e74-851e-fcfe43b6e6b6)
+![Screenshot 2024-07-28 133051](https://github.com/user-attachments/assets/d6dde7a6-3f41-44c9-a977-76d33dd5ca78)
 
 
